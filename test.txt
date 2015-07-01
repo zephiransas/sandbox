@@ -6,3 +6,6 @@ cccccc
 commit!
 
 test
+
+
+feature-fugaでの修正
