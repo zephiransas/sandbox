@@ -10,5 +10,3 @@ feature-fugaでの修正
 
 aaaa
 bbbb
-
-commitAで追加した行
