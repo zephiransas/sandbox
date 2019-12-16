@@ -12,3 +12,4 @@ aaaa
 bbbb
 
 commitAで追加した行
+commitBで追加した行
